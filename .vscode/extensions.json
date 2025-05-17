@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        "chrisvltn.log-wrapper-for-vscode",
+        "CKurisu.html-snippets-migrated",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "ionutvmi.path-autocomplete",
+        "mariusalchimavicius.json-to-ts",
+        "mhutchie.git-graph",
+        "natqe.reload",
+        "naumovs.color-highlight",
+        "nicholashsiang.vscode-react-snippet",
+        "richie5um2.vscode-sort-json",
+        "ruiquelhas.vscode-uppercase",
+        "sgryjp.vscode-stable-sort",
+        "streetsidesoftware.code-spell-checker-russian",
+        "streetsidesoftware.code-spell-checker",
+        "xabikos.javascriptsnippets",
+    ]
+}

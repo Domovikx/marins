@@ -1,0 +1,68 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.enabledFileTypes": {
+    "*": true,
+    "markdown": true
+  },
+  "cSpell.language": "en, ru",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.suggest.preview": true,
+  "editor.wordWrap": "on",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.validate": [
+    "html",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": true,
+  "explorer.confirmDragAndDrop": true,
+  "javascript.inlayHints.parameterNames.enabled": "none",
+  "path-autocomplete.extensionOnImport": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.colorCustomizations": {
+    "gitlens.trailingLineForegroundColor": "#888",
+    "tab.activeBackground": "#fff3"
+  },
+  "workbench.tree.indent": 20,
+  "cSpell.words": [
+    "DMBPRE",
+    "dpdm",
+    "ebit",
+    "ebitda",
+    "Expertises",
+    "Gosb",
+    "inspectpack",
+    "jsdevtools",
+    "kful",
+    "kfulsources",
+    "mochawesome",
+    "offersources",
+    "ogrn",
+    "PPRB",
+    "pretrade",
+    "Processings",
+    "sber",
+    "statoscope",
+  ],
+}
